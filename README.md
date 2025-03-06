@@ -18,10 +18,10 @@ Currently working at iDONATEpro as a Solutions Architect & Senior Software Devel
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chase-cabrera&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=chase-cabrera&theme=onedark&column=7)-->
+![Trophy](https://github-profile-trophy.vercel.app/?username=chase-cabrera&theme=onedark&column=7) 
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chase-cabrera&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chase-cabrera&theme=github)-->
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chasecabrera)
