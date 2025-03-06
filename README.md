@@ -11,14 +11,14 @@ Currently working at iDONATEpro as a Solutions Architect & Senior Software Devel
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![ColdFusion](https://img.shields.io/badge/-ColdFusion-0066B3?style=flat-square&logo=adobe&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-<!-- Add more technologies you work with -->
+<!-- Add more technologies you work with 
 
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chase-cabrera&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=chase-cabrera&theme=onedark&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=chase-cabrera&theme=onedark&column=7)-->
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chase-cabrera&theme=github)
